@@ -11,7 +11,7 @@ package gomitass;
 public class Principal {
     public static void main(String[] args) {
 
-        
+        //perro
         GomitasEsferificadas gomita1 = new GomitasEsferificadas( "Gomita Artesanal", "Curado de Mango", 6.50,"Mezcal Artesanal","Inversa" );
 
         
